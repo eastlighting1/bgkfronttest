@@ -1,7 +1,6 @@
 // BubbleChart.js 파일
 
 import React from 'react';
-import ReactDOM from 'react-dom';
 import { Vega } from 'react-vega';
 
 const spec = {

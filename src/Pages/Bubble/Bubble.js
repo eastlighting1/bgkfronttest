@@ -5,7 +5,6 @@ import Box from '@mui/material/Box';
 import Container from '@mui/material/Container';
 import Toolbar from '@mui/material/Toolbar';
 import Button from '@mui/material/Button';
-import Typography from '@mui/material/Typography';
 import Logo from '../../Logo.png';
 import { Link as RouterLink } from 'react-router-dom';
 import Paper from '@mui/material/Paper';
